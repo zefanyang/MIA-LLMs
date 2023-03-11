@@ -1,4 +1,7 @@
 ## This repository follows research that combines medical image analysis models and large language models (LLMs).
+### LLMs
+Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models. (March 8, 2023) [[arXiv]](https://arxiv.org/abs/2303.04671)
+
 ### Images to Prompts to Reports
 - ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models. [[arXiv]](https://arxiv.org/abs/2302.07257)
 
