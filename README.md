@@ -13,9 +13,8 @@ Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models. (Mar
 - VQA: Visual Question Answering. [[arXiv]](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 - 
 ### Prompt Engineering
-- Prompt Tuning
-
-  -《近代自然语言处理技术发展的“第四范式”》 [[zhihu]](https://zhuanlan.zhihu.com/p/395115779)
-  - How Does In-Context Learning Help Prompt Tuning? [[arXiv]](https://arxiv.org/pdf/2302.10198.pdf)
-  - WARP: Word-level Adversarial ReProgramming. [[arXiv]](https://arxiv.org/pdf/2101.00121.pdf)
-  - Pretrain, Prompt, Predict. [[website]](http://pretrain.nlpedia.ai/)
+Prompt Tuning
+-《近代自然语言处理技术发展的“第四范式”》 [[zhihu]](https://zhuanlan.zhihu.com/p/395115779)
+- How Does In-Context Learning Help Prompt Tuning? [[arXiv]](https://arxiv.org/pdf/2302.10198.pdf)
+- WARP: Word-level Adversarial ReProgramming. [[arXiv]](https://arxiv.org/pdf/2101.00121.pdf)
+- Pretrain, Prompt, Predict. [[website]](http://pretrain.nlpedia.ai/)
