@@ -1,8 +1,9 @@
 ## This repository is dedicated to following research that combines medical image analysis models and large language models (LLMs).
 ## Large Language Models
-- [LLaMA: Open and Efficient Foundation Language Models.](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
-- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.](https://arxiv.org/abs/2303.04671) (March 8, 2023)
+- [GPT-4.](https://cdn.openai.com/papers/gpt-4.pdf) (March 14, 2023)
 - [Standford Alpaca.](https://github.com/tatsu-lab/stanford_alpaca) (March 14, 2023)
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.](https://arxiv.org/abs/2303.04671) (March 8, 2023)
+- [LLaMA: Open and Efficient Foundation Language Models.](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
 
 ## Images to Prompts to Reports
 - [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models](https://arxiv.org/abs/2302.07257)
