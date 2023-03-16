@@ -5,6 +5,7 @@
 - [Standford Alpaca.](https://github.com/tatsu-lab/stanford_alpaca) (March 14, 2023)
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 - [LLaMA: Open and Efficient Foundation Language Models.](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
+- [PubMed GPT]
 
 ## Images to Prompts to Reports
 - [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models.](https://arxiv.org/abs/2302.07257)
