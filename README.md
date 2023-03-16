@@ -1,4 +1,4 @@
-## This repository is dedicated to following research that combines medical image analysis models and large language models (LLMs).
+# This repository is dedicated to following research that combines medical image analysis models and large language models (LLMs).
 ## Large Language Models
 - [GPT-4.](https://cdn.openai.com/papers/gpt-4.pdf) (March 14, 2023)
   - Achieve 75% accuracy in Medical Knowledge Self-Assessment Program compared with the 53% accuracy in GPT-3.5.
