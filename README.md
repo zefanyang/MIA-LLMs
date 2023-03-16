@@ -9,8 +9,6 @@
 
 ## Large Language Models for Medicine
 - [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext)
-
-## Images to Prompts to Reports
 - [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models.](https://arxiv.org/abs/2302.07257)
 
 ## Text Augmentation and Few-Shot Learning
@@ -21,6 +19,6 @@
 - [VQA: Visual Question Answering.](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 
 ## Prompt Engineering
-#### Prompt Tuning
+### Prompt Tuning
 - [How Does In-Context Learning Help Prompt Tuning?](https://arxiv.org/pdf/2302.10198.pdf)
 - [WARP: Word-level Adversarial ReProgramming.](https://arxiv.org/pdf/2101.00121.pdf)
