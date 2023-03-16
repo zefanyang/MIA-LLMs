@@ -5,7 +5,7 @@
 - [Standford Alpaca.](https://github.com/tatsu-lab/stanford_alpaca) (March 14, 2023)
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models.](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 - [LLaMA: Open and Efficient Foundation Language Models.](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
-- [PubMed GPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html)
+- [BioMedLM GPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html)
 
 ## Large Language Models for Medicine
 - [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext)
