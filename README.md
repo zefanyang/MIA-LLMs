@@ -7,6 +7,9 @@
 - [LLaMA: Open and Efficient Foundation Language Models.](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
 - [PubMed GPT]
 
+## Large Language Models for Medicine
+- [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext)
+
 ## Images to Prompts to Reports
 - [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models.](https://arxiv.org/abs/2302.07257)
 
