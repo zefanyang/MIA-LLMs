@@ -2,7 +2,7 @@
 ## Large Language Models (LLMs)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (2018)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (2019)
-- [Improving Language Understanding by Generative Pre-Training (GPT-1)](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) (2018)
+- [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf) (GPT-1) (2018)
 - [Language Models are Unsupervised Multitask Learners (GPT-2)](http://static.cs.brown.edu/courses/cs146/assets/papers/language_models_are_unsupervised_multitask_learners.pdf) (2019)
 - [Language Models are Few-Shot Learners (GPT-3, ICL)](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) (2020)
 - [Training language models to follow instructions with human feedback (InstructGPT/ChatGPT)](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (2022)
