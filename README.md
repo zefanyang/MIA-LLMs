@@ -34,12 +34,12 @@
 - [WARP: Word-level Adversarial ReProgramming](https://arxiv.org/pdf/2101.00121.pdf)
 
 ## Large Language Models for Medicine
-- [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext)
-- [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models](https://arxiv.org/abs/2302.07257)
-- [The Diagnostic and Triage Accuracy of the GPT-3 Artificial Intelligence Model](https://www.medrxiv.org/content/10.1101/2023.01.30.23285067v1)
+- [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext) (February 6, 2023)
+- [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models](https://arxiv.org/abs/2302.07257) (February 14, 2023)
+- [The Diagnostic and Triage Accuracy of the GPT-3 Artificial Intelligence Model](https://www.medrxiv.org/content/10.1101/2023.01.30.23285067v1) (February 1, 2023)
 
 ## Large Vision Models
 - [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442) (February 10, 2023)
 
 ## Text Augmentation
-- [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007)
+- [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
