@@ -23,6 +23,11 @@
 - [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)
 - [VQA: Visual Question Answering](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 
+## Survey Papers
+- [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815) (January 2023)
+- [VLP: A Survey on Vision-language Pre-training](https://link.springer.com/content/pdf/10.1007/s11633-022-1369-5.pdf?pdf=button) (February 2023)
+- [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) (2022)
+
 ## Prompt Engineering
 - [Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/abs/2001.07676) (2021)
 - [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118) (2021)
