@@ -1,4 +1,4 @@
-# This repository is dedicated to following research that combines medical image analysis models and large language models (LLMs).
+# This repository is dedicated to following research that combines medical image analysis models and large language models.
 ## Large Language Models (LLMs)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (2018)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (2019)
