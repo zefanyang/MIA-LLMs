@@ -13,7 +13,7 @@
 - [BioMedLM GPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html) (2022)
 - [Vicuna](https://vicuna.lmsys.org/) (March, 2023)
 
-## Vision Language Models (VLMs)
+## Vision-Language Models (VLMs)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) (2019)
 - [UNITER: UNiversal Image-TExt Representation Learning](https://link.springer.com/chapter/10.1007/978-3-030-58577-8_7) (2020)
 - [Perceiver: General Perception with Iterative Attention](http://proceedings.mlr.press/v139/jaegle21a.html) (2021)
