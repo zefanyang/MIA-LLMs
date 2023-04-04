@@ -11,6 +11,7 @@
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
 - [BioMedLM GPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html) (2022)
+- [Vicuna](https://vicuna.lmsys.org/) (March, 2023)
 
 ## Vision Language Models (VLMs)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) (2019)
