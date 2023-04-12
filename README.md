@@ -8,8 +8,8 @@
 - [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (InstructGPT/ChatGPT) (2022)
 - [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) (March 14, 2023)
 - [Standford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) (March 14, 2023)
-- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
+- [PaLM](https://arxiv.org/pdf/2204.02311.pdf) (2022)
 - [BioMedLM GPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html) (2022)
 - [Vicuna](https://vicuna.lmsys.org/) (March, 2023)
 
@@ -25,6 +25,7 @@
 - [VQA: Visual Question Answering](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
 - [Scaling up visual and visionlanguage representation learning with noisy text supervision](http://proceedings.mlr.press/v139/jia21b/jia21b.pdf) (ALGIN) (2021)
 - [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) (CLIP) (2021)
+- [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 
 ## Survey Papers
 - [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815) (January 2023)
