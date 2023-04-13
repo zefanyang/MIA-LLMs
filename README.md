@@ -14,17 +14,17 @@
 - [Vicuna](https://vicuna.lmsys.org/) (March, 2023)
 
 ## Vision-Language Models (VLMs)
+- [VQA: Visual Question Answering](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf) (2015)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) (2019)
 - [UNITER: UNiversal Image-TExt Representation Learning](https://link.springer.com/chapter/10.1007/978-3-030-58577-8_7) (2020)
 - [Perceiver: General Perception with Iterative Attention](http://proceedings.mlr.press/v139/jaegle21a.html) (2021)
+- [Scaling up visual and visionlanguage representation learning with noisy text supervision](http://proceedings.mlr.press/v139/jia21b/jia21b.pdf) (ALGIN) (2021)
+- [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) (CLIP) (2021)
 - [Learning to Prompt for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-022-01653-1) (CoOp) (2022)
 - [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d46662aa53e78a62afd980a29e0c37ed-Abstract-Conference.html) (2022)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Dou_An_Empirical_Study_of_Training_End-to-End_Vision-and-Language_Transformers_CVPR_2022_paper.html) (2022)
 - [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html) (2022)
-- [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378)
-- [VQA: Visual Question Answering](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf)
-- [Scaling up visual and visionlanguage representation learning with noisy text supervision](http://proceedings.mlr.press/v139/jia21b/jia21b.pdf) (ALGIN) (2021)
-- [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) (CLIP) (2021)
+- [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) (March 2023)
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 
 ## Survey Papers
