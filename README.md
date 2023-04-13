@@ -17,7 +17,6 @@
 - [VQA: Visual Question Answering](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf) (2015)
 - [ViLBERT: Pretraining Task-Agnostic Visiolinguistic Representations for Vision-and-Language Tasks](https://proceedings.neurips.cc/paper/2019/hash/c74d97b01eae257e44aa9d5bade97baf-Abstract.html) (2019)
 - [UNITER: UNiversal Image-TExt Representation Learning](https://link.springer.com/chapter/10.1007/978-3-030-58577-8_7) (2020)
-- [Perceiver: General Perception with Iterative Attention](http://proceedings.mlr.press/v139/jaegle21a.html) (2021)
 - [Scaling up visual and visionlanguage representation learning with noisy text supervision](http://proceedings.mlr.press/v139/jia21b/jia21b.pdf) (ALGIN) (2021)
 - [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) (CLIP) (2021)
 - [Learning to Prompt for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-022-01653-1) (CoOp) (2022)
