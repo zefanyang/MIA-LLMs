@@ -27,9 +27,9 @@
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 
 ## Survey Papers
+- [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) (2022)
 - [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815) (January 2023)
 - [VLP: A Survey on Vision-language Pre-training](https://link.springer.com/content/pdf/10.1007/s11633-022-1369-5.pdf?pdf=button) (February 2023)
-- [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) (2022)
 
 ## Prompt Engineering
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (2020)
