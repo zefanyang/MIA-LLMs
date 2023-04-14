@@ -32,14 +32,14 @@
 - [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) (2022)
 
 ## Prompt Engineering
+- [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (2020)
 - [Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/abs/2001.07676) (PET) (2021)
 - [It's Not Just Size That Matters: Small Language Models Are Also Few-Shot Learners](https://arxiv.org/abs/2009.07118) (2021)
-- [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (2020)
 - [Calibrate Before Use: Improving Few-shot Performance of Language Models](http://proceedings.mlr.press/v139/zhao21c.html) (ICL) (2021)
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) (2021)
+- [WARP: Word-level Adversarial ReProgramming](https://arxiv.org/pdf/2101.00121.pdf) (2021)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) (January 10, 2023)
-- [How Does In-Context Learning Help Prompt Tuning?](https://arxiv.org/pdf/2302.10198.pdf)
-- [WARP: Word-level Adversarial ReProgramming](https://arxiv.org/pdf/2101.00121.pdf)
+- [How Does In-Context Learning Help Prompt Tuning?](https://arxiv.org/pdf/2302.10198.pdf) (March 2, 2023)
 
 ## Large Language Models for Medicine
 - [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext) (February 6, 2023)
