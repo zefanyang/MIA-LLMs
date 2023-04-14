@@ -7,6 +7,7 @@
 - [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) (GPT-3) (2020)
 - [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (InstructGPT/ChatGPT) (2022)
 - [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) (March 14, 2023)
+- [Auto-GPT](https://github.com/Torantulino/Auto-GPT) (March 19, 2023)
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
 - [Standford Alpaca](https://github.com/tatsu-lab/stanford_alpaca) (March 14, 2023)
 - [PaLM](https://arxiv.org/pdf/2204.02311.pdf) (2022)
