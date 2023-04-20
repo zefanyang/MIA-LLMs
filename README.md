@@ -46,6 +46,7 @@
 - [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext) (February 6, 2023)
 - [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models](https://arxiv.org/abs/2302.07257) (February 14, 2023)
 - [The Diagnostic and Triage Accuracy of the GPT-3 Artificial Intelligence Model](https://www.medrxiv.org/content/10.1101/2023.01.30.23285067v1) (February 1, 2023)
+- [Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) (April 12, 2023)
 
 ## Large Vision Models
 - [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442) (February 10, 2023)
