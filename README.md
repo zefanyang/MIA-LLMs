@@ -56,5 +56,7 @@
 - [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
 
 ## Image-Text Datasets
+- [Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041) (2019)
 - [Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison](https://ojs.aaai.org/index.php/AAAI/article/view/3834) (2019)
 - [MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports](https://www.nature.com/articles/s41597-019-0322-0) (2019)
+- [Covid-net: A tailored deep convolutional neural network design for detection of covid-19 cases from chest x-ray images](https://link.springer.com/content/pdf/10.1038/s41598-020-76550-z.pdf) (2020)
