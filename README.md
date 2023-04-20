@@ -53,3 +53,7 @@
 
 ## Text Augmentation
 - [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
+
+## Image-Text Datasets
+- [Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison](https://ojs.aaai.org/index.php/AAAI/article/view/3834) (2019)
+- [MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports](https://www.nature.com/articles/s41597-019-0322-0) (2019)
