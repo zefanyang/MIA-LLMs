@@ -1,4 +1,4 @@
-# This repository is dedicated to following research that lies at the intersection between medical image analysis models and large language models.
+# This repository is dedicated to following research that lies at the intersection between medical image analysis and foundation models.
 ## Large Language Models (LLMs)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (2018)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (2019)
@@ -27,6 +27,7 @@
 - [Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning](MGCA) (2022)
 - [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) (March 2023)
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) (March 8, 2023)
+- [SegGPT: Segmenting Everything In Context](https://arxiv.org/pdf/2304.03284.pdf) (April 6, 2023)
 
 ## Survey Papers
 - [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) (2022)
