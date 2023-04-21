@@ -20,7 +20,6 @@
 - [UNITER: UNiversal Image-TExt Representation Learning](https://link.springer.com/chapter/10.1007/978-3-030-58577-8_7) (2020)
 - [Scaling up visual and visionlanguage representation learning with noisy text supervision](http://proceedings.mlr.press/v139/jia21b/jia21b.pdf) (ALGIN) (2021)
 - [Learning transferable visual models from natural language supervision](http://proceedings.mlr.press/v139/radford21a/radford21a.pdf) (CLIP) (2021)
-- [Learning to Prompt for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-022-01653-1) (CoOp) (2022)
 - [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d46662aa53e78a62afd980a29e0c37ed-Abstract-Conference.html) (2022)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Dou_An_Empirical_Study_of_Training_End-to-End_Vision-and-Language_Transformers_CVPR_2022_paper.html) (METER) (2022)
 - [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html) (2022)
@@ -41,6 +40,7 @@
 - [Calibrate Before Use: Improving Few-shot Performance of Language Models](http://proceedings.mlr.press/v139/zhao21c.html) (ICL) (2021)
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) (2021)
 - [WARP: Word-level Adversarial ReProgramming](https://arxiv.org/pdf/2101.00121.pdf) (2021)
+- [Learning to Prompt for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-022-01653-1) (CoOp) (2022)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) (January 10, 2023)
 - [How Does In-Context Learning Help Prompt Tuning?](https://arxiv.org/pdf/2302.10198.pdf) (March 2, 2023)
 
