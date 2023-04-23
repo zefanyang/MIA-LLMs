@@ -62,6 +62,6 @@
 - [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
 
 ## Blogs on cutting-edge topics
-[Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) (April 22, 2023)
-[Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (April 16, 2023)
-[Understanding Parameter-Efficient Finetuning](https://sebastianraschka.com/blog/2023/llm-finetuning-llama-adapter.html) (April 12, 2023)
+- [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) (April 22, 2023)
+- [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (April 16, 2023)
+- [Understanding Parameter-Efficient Finetuning](https://sebastianraschka.com/blog/2023/llm-finetuning-llama-adapter.html) (April 12, 2023)
