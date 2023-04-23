@@ -1,4 +1,4 @@
-# This repository is dedicated to following research that lies at the intersection between medical image analysis and foundation models.
+# This repository is dedicated to following research trends that lies at the intersection between medical image analysis and foundation models.
 ## Large Language Models (LLMs)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (2018)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (2019)
@@ -49,14 +49,19 @@
 - [The Diagnostic and Triage Accuracy of the GPT-3 Artificial Intelligence Model](https://www.medrxiv.org/content/10.1101/2023.01.30.23285067v1) (February 1, 2023)
 - [Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) (April 12, 2023)
 
+## Image-Text Datasets
+- [Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041) (2019)
+- [Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison](https://ojs.aaai.org/index.php/AAAI/article/view/3834) (2019)
+- [MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports](https://www.nature.com/articles/s41597-019-0322-0) (2019)
+- [Covid-net: A tailored deep convolutional neural network design for detection of covid-19 cases from chest x-ray images](https://link.springer.com/content/pdf/10.1038/s41598-020-76550-z.pdf) (2020)
+
 ## Large Vision Models
 - [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442) (February 10, 2023)
 
 ## Text Augmentation
 - [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
 
-## Image-Text Datasets
-- [Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041) (2019)
-- [Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison](https://ojs.aaai.org/index.php/AAAI/article/view/3834) (2019)
-- [MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports](https://www.nature.com/articles/s41597-019-0322-0) (2019)
-- [Covid-net: A tailored deep convolutional neural network design for detection of covid-19 cases from chest x-ray images](https://link.springer.com/content/pdf/10.1038/s41598-020-76550-z.pdf) (2020)
+## Blogs on cutting-edge topics
+[Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) (April 22, 2023)
+[Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (April 16, 2023)
+[Understanding Parameter-Efficient Finetuning](https://sebastianraschka.com/blog/2023/llm-finetuning-llama-adapter.html) (April 12, 2023)
