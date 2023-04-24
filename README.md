@@ -25,7 +25,7 @@
 - [VLMo: Unified Vision-Language Pre-Training with Mixture-of-Modality-Experts](https://proceedings.neurips.cc/paper_files/paper/2022/hash/d46662aa53e78a62afd980a29e0c37ed-Abstract-Conference.html) (2022)
 - [An Empirical Study of Training End-to-End Vision-and-Language Transformers](https://openaccess.thecvf.com/content/CVPR2022/html/Dou_An_Empirical_Study_of_Training_End-to-End_Vision-and-Language_Transformers_CVPR_2022_paper.html) (METER) (2022)
 - [Flamingo: a Visual Language Model for Few-Shot Learning](https://proceedings.neurips.cc/paper_files/paper/2022/hash/960a172bc7fbf0177ccccbb411a7d800-Abstract-Conference.html) (2022)
-- [Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning](MGCA) (2022)
+- [Multi-Granularity Cross-modal Alignment for Generalized Medical Visual Representation Learning](https://arxiv.org/abs/2210.06044) (MGCA) (2022)
 - [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) (March 2023)
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 
