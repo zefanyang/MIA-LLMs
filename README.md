@@ -63,7 +63,7 @@
 ## Text Augmentation
 - [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
 
-## Commentary, Blogs, Newsletters, Ideas, APIs on Cutting-Edge Topics
+## Commentary, Blogs, Newsletters, Ideas, APIs, Tutorials on Cutting-Edge Topics
 - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) (April 22, 2023)
 - [Understanding Large Language Models](https://magazine.sebastianraschka.com/p/understanding-large-language-models) (April 16, 2023)
 - [Understanding Parameter-Efficient Finetuning](https://sebastianraschka.com/blog/2023/llm-finetuning-llama-adapter.html) (April 12, 2023)
@@ -73,4 +73,3 @@
 - [GPT-3: Its Nature, Scope, Limits, and Consequences](https://link.springer.com/article/10.1007/s11023-020-09548-1) (2020)
 - [ShareGPT: Share your wildest conversations with ChatGPT](https://sharegpt.com/)
 - [OpenAI API](https://platform.openai.com/overview)
-- [ABC of NLP](https://colab.research.google.com/drive/1ncpqhv6kaykD4aShSk_OBtNbJ8xv1b1q?usp=sharing#scrollTo=heDjPtK_9HCv)
