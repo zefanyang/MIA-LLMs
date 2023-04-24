@@ -70,3 +70,4 @@
 - [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) (March 21, 2023)
 - [GPT-3: Its Nature, Scope, Limits, and Consequences](https://link.springer.com/article/10.1007/s11023-020-09548-1) (2020)
 - [ShareGPT: Share your wildest conversations with ChatGPT](https://sharegpt.com/)
+- [OpenAI API](https://platform.openai.com/overview)
