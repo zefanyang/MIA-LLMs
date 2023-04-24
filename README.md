@@ -68,4 +68,4 @@
 - [GPT-3: Its Nature, Scope, Limits, and Consequences](https://link.springer.com/article/10.1007/s11023-020-09548-1)
 - [Using LLM's output to circumvent data moat? Technical, business, and legal concerns discussed by Andrew Ag.](https://www.deeplearning.ai/the-batch/issue-191/)
 - [What you'd like to share if you join a reading group on LLMs? Question rasied by Andrew Ag in LinkedIn.](https://www.linkedin.com/feed/update/urn:li:activity:7028449312300834816/?commentUrn=urn%3Ali%3Acomment%3A%28activity%3A7028449312300834816%2C7028519126105030656%29&dashCommentUrn=urn%3Ali%3Afsd_comment%3A%287028519126105030656%2Curn%3Ali%3Aactivity%3A7028449312300834816%29)
-- [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun)
+- [The Age of AI has begun](https://www.gatesnotes.com/The-Age-of-AI-Has-Begun) (March 21, 2023)
