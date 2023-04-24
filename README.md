@@ -1,4 +1,4 @@
-# This repository is dedicated to following research trends that lies at the intersection between medical image analysis and foundation models.
+# This repository is dedicated to following trends that lies at the intersection between medical image analysis and foundation models.
 ## Large Language Models (LLMs)
 - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/abs/1810.04805) (2018)
 - [ALBERT: A Lite BERT for Self-supervised Learning of Language Representations](https://arxiv.org/abs/1909.11942) (2019)
@@ -73,3 +73,4 @@
 - [GPT-3: Its Nature, Scope, Limits, and Consequences](https://link.springer.com/article/10.1007/s11023-020-09548-1) (2020)
 - [ShareGPT: Share your wildest conversations with ChatGPT](https://sharegpt.com/)
 - [OpenAI API](https://platform.openai.com/overview)
+- [ABC of NLP](https://colab.research.google.com/drive/1ncpqhv6kaykD4aShSk_OBtNbJ8xv1b1q?usp=sharing#scrollTo=heDjPtK_9HCv)
