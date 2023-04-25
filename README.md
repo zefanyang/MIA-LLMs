@@ -5,7 +5,7 @@
 - [Improving Language Understanding by Generative Pre-Training](https://www.cs.ubc.ca/~amuham01/LING530/papers/radford2018improving.pdf)  (GPT-1) (2018)
 - [Language Models are Unsupervised Multitask Learners](http://static.cs.brown.edu/courses/cs146/assets/papers/language_models_are_unsupervised_multitask_learners.pdf)  (GPT-2) (2019)
 - [Language Models are Few-Shot Learners](https://proceedings.neurips.cc/paper/2020/hash/1457c0d6bfcb4967418bfb8ac142f64a-Abstract.html) (GPT-3) (2020)
-- [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (InstructGPT/ChatGPT) (2022)
+- [Training language models to follow instructions with human feedback](https://proceedings.neurips.cc/paper_files/paper/2022/hash/b1efde53be364a73914f58805a001731-Abstract-Conference.html) (InstructGPT) (2022) (ChatGPT) (November 30, 2022)
 - [GPT-4](https://cdn.openai.com/papers/gpt-4.pdf) (March 14, 2023)
 - [Auto-GPT](https://github.com/Torantulino/Auto-GPT) (March 19, 2023)
 - [Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension](https://arxiv.org/pdf/1910.13461.pdf) (2019)
