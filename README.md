@@ -44,6 +44,7 @@
 - [Learning to Prompt for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-022-01653-1) (CoOp) (2022)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) (CoT) (January 2022)
 - [How Does In-Context Learning Help Prompt Tuning?](https://arxiv.org/pdf/2302.10198.pdf) (March 2, 2023)
+- [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/abs/2304.11657) (April 23, 2023)
 
 ## Large Language Models for Medicine
 - [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext) (February 6, 2023)
@@ -56,6 +57,13 @@
 - [Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison](https://ojs.aaai.org/index.php/AAAI/article/view/3834) (2019)
 - [MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports](https://www.nature.com/articles/s41597-019-0322-0) (2019)
 - [Covid-net: A tailored deep convolutional neural network design for detection of covid-19 cases from chest x-ray images](https://link.springer.com/content/pdf/10.1038/s41598-020-76550-z.pdf) (2020)
+
+## Evaluating ChatGPT
+- [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633) (April 23, 2023)
+- [Black Holes as Brains: Neural Networks with Area Law Entropy](https://arxiv.org/abs/1801.03918) (2018)
+
+## Fine-Tuning Large Models
+- [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647) (March 28, 2023)
 
 ## Large Vision Models
 - [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442) (February 10, 2023)
@@ -73,3 +81,5 @@
 - [GPT-3: Its Nature, Scope, Limits, and Consequences](https://link.springer.com/article/10.1007/s11023-020-09548-1) (2020)
 - [ShareGPT: Share your wildest conversations with ChatGPT](https://sharegpt.com/)
 - [OpenAI API](https://platform.openai.com/overview)
+- [Inducing anxiety in large language models increases exploration and bias](https://arxiv.org/abs/2304.11111) (April 21, 2023)
+- [Transformers from Scratch](https://e2eml.school/transformers.html) (2021)
