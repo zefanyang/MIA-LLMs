@@ -58,7 +58,9 @@
 - [MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports](https://www.nature.com/articles/s41597-019-0322-0) (2019)
 - [Covid-net: A tailored deep convolutional neural network design for detection of covid-19 cases from chest x-ray images](https://link.springer.com/content/pdf/10.1038/s41598-020-76550-z.pdf) (2020)
 
-## Evaluating ChatGPT
+## Evaluating, Aligning ChatGPT
+- [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120) (April 24, 2023)
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712) (March 22, 2023)
 - [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633) (April 23, 2023)
 - [Black Holes as Brains: Neural Networks with Area Law Entropy](https://arxiv.org/abs/1801.03918) (2018)
 
