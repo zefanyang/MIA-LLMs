@@ -85,4 +85,4 @@
 - [OpenAI API](https://platform.openai.com/overview)
 - [Inducing anxiety in large language models increases exploration and bias](https://arxiv.org/abs/2304.11111) (April 21, 2023)
 - [Transformers from Scratch](https://e2eml.school/transformers.html) (2021)
-- [Choose Your Weapon: Survival Strategies for Depressed AI Academics] (March 31, 2023)
+- [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf) (March 31, 2023)
