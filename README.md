@@ -69,7 +69,9 @@
 - [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647) (March 28, 2023)
 
 ## Large Vision Models
+- [SegGPT](https://arxiv.org/abs/2304.03284) (April 6, 2023)
 - [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442) (February 10, 2023)
+- [Painter](https://arxiv.org/abs/2212.02499) (2022)
 
 ## Text Augmentation
 - [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
