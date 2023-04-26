@@ -92,3 +92,5 @@
 - [OpenAI API](https://platform.openai.com/overview)
 - [Transformers from Scratch](https://e2eml.school/transformers.html) (2021)
 - [Choose Your Weapon: Survival Strategies for Depressed AI Academics](https://arxiv.org/pdf/2304.06035.pdf) (March 31, 2023)
+- [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) (2018)
+- [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) (2018)
