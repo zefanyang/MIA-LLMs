@@ -11,6 +11,8 @@
 - [Bart: Denoising sequence-to-sequence pre-training for natural language generation, translation, and comprehension](https://arxiv.org/pdf/1910.13461.pdf) (2019)
 - [Training Compute-Optimal Large Language Models](https://arxiv.org/abs/2203.15556) (Chinchilla) (2022)
 - [PaLM](https://arxiv.org/pdf/2204.02311.pdf) (2022)
+- [BLOOM: A 176B-Parameter Open-Access Multilingual Language Model](https://arxiv.org/abs/2211.05100) (2022)
+- [OPT: Open Pre-trained Transformer Language Models](https://arxiv.org/abs/2205.01068) (2022)
 - [LaMDA: Language Models for Dialog Applications](https://arxiv.org/pdf/2201.08239.pdf) (2022)
 - [BioMedLM GPT](https://crfm.stanford.edu/2022/12/15/pubmedgpt.html) (2022)
 - [Vicuna](https://vicuna.lmsys.org/) (March, 2023)
