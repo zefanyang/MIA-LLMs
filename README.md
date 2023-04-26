@@ -61,6 +61,7 @@
 ## Evaluating, Aligning ChatGPT
 - [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120) (April 24, 2023)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712) (March 22, 2023)
+- [On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)](https://arxiv.org/abs/2302.06706) (February 13, 2023)
 - [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633) (April 23, 2023)
 - [Black Holes as Brains: Neural Networks with Area Law Entropy](https://arxiv.org/abs/1801.03918) (2018)
 
