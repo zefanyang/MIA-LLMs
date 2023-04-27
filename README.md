@@ -95,3 +95,7 @@
 - [Visualizing A Neural Machine Translation Model (Mechanics of Seq2seq Models With Attention)](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) (2018)
 - [The Illustrated Transformer](http://jalammar.github.io/illustrated-transformer/) (2018)
 - [Jay Alammar's Homepage](http://jalammar.github.io/) (Jay is keeping producing quality tutorials and talks for AI researchers and practitioners!)
+- [How GPT3 Works - Visualizations and Animations](http://jalammar.github.io/how-gpt3-works-visualizations-animations/) (July 2020)
+- [A Visual Guide to Using BERT for the First Time](http://jalammar.github.io/a-visual-guide-to-using-bert-for-the-first-time/) (November 2019)
+- [The Illustrated GPT-2 (Visualizing Transformer Language Models)](http://jalammar.github.io/illustrated-gpt2/) (August 2019)
+- [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/) (December 2018)
