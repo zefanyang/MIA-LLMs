@@ -18,6 +18,7 @@
 - [Vicuna](https://vicuna.lmsys.org/) (March, 2023)
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
 - [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) (March 14, 2023)
+- [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062) (April 19, 2023)
 
 ## Vision-Language Models (VLMs)
 - [VQA: Visual Question Answering](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf) (2015)
