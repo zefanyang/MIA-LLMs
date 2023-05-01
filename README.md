@@ -102,3 +102,4 @@
 - [The Illustrated BERT, ELMo, and co. (How NLP Cracked Transfer Learning)](http://jalammar.github.io/illustrated-bert/) (December 2018)
 - [ChatGPT Prompt Engineering for Developers](https://www.deeplearning.ai/short-courses/chatgpt-prompt-engineering-for-developers/) (April 27, 2023)
 - [OpenAI Cookbook](https://github.com/openai/openai-cookbook/commits/main)
+- [What Is ChatGPT Doing … and Why Does It Work? by Stephen Wolfram](https://writings.stephenwolfram.com/2023/02/what-is-chatgpt-doing-and-why-does-it-work/#beyond-basic-training)
