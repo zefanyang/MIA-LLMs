@@ -55,6 +55,7 @@
 - [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models](https://arxiv.org/abs/2302.07257) (February 14, 2023)
 - [The Diagnostic and Triage Accuracy of the GPT-3 Artificial Intelligence Model](https://www.medrxiv.org/content/10.1101/2023.01.30.23285067v1) (February 1, 2023)
 - [Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) (April 12, 2023)
+- [Multilingual translation for zero-shot biomedical classification using BioTranslator](https://www.nature.com/articles/s41467-023-36476-2) (February 10, 2023)
 
 ## Image-Text Datasets
 - [Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041) (2019)
