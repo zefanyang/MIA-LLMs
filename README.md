@@ -50,6 +50,19 @@
 - [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647) (March 28, 2023)
 - [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/pdf/2304.14454.pdf) (April 27, 2023)
 
+## Large Vision Models
+- [SegGPT](https://arxiv.org/abs/2304.03284) (April 6, 2023)
+- [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442) (February 10, 2023)
+- [Painter](https://arxiv.org/abs/2212.02499) (2022)
+
+## Text Augmentation
+- [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
+
+## Survey Papers
+- [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) (2022)
+- [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815) (January 2023)
+- [VLP: A Survey on Vision-language Pre-training](https://link.springer.com/content/pdf/10.1007/s11633-022-1369-5.pdf?pdf=button) (February 2023)
+
 ## Large Language Models for Medicine
 - [ChatGPT: the future of discharge summaries?](https://www.thelancet.com/journals/landig/article/PIIS2589-7500(23)00021-3/fulltext) (February 6, 2023)
 - [ChatCAD: Interactive Computer-Aided Diagnosis on Medical Image using Large Language Models](https://arxiv.org/abs/2302.07257) (February 14, 2023)
@@ -67,24 +80,11 @@
 - [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633) (April 23, 2023)
 - [Black Holes as Brains: Neural Networks with Area Law Entropy](https://arxiv.org/abs/1801.03918) (2018)
 
-## Large Vision Models
-- [SegGPT](https://arxiv.org/abs/2304.03284) (April 6, 2023)
-- [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442) (February 10, 2023)
-- [Painter](https://arxiv.org/abs/2212.02499) (2022)
-
-## Text Augmentation
-- [ChatAug: Leveraging ChatGPT for Text Data Augmentation](https://arxiv.org/abs/2302.13007) (February 25, 2023)
-
 ## Image-Text Datasets
 - [Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041) (2019)
 - [Chexpert: A large chest radiograph dataset with uncertainty labels and expert comparison](https://ojs.aaai.org/index.php/AAAI/article/view/3834) (2019)
 - [MIMIC-CXR, a de-identified publicly available database of chest radiographs with free-text reports](https://www.nature.com/articles/s41597-019-0322-0) (2019)
 - [Covid-net: A tailored deep convolutional neural network design for detection of covid-19 cases from chest x-ray images](https://link.springer.com/content/pdf/10.1038/s41598-020-76550-z.pdf) (2020)
-
-## Survey Papers
-- [A Survey on In-context Learning](https://arxiv.org/abs/2301.00234) (2022)
-- [Pre-train, Prompt, and Predict: A Systematic Survey of Prompting Methods in Natural Language Processing](https://dl.acm.org/doi/pdf/10.1145/3560815) (January 2023)
-- [VLP: A Survey on Vision-language Pre-training](https://link.springer.com/content/pdf/10.1007/s11633-022-1369-5.pdf?pdf=button) (February 2023)
 
 ## Commentary, Blogs, Newsletters, Ideas, APIs, Tutorials on Cutting-Edge Topics
 - [Finetuning Large Language Models](https://magazine.sebastianraschka.com/p/finetuning-large-language-models) (April 22, 2023)
