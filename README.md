@@ -66,6 +66,7 @@
 ## Evaluating, Aligning ChatGPT
 - [Inducing anxiety in large language models increases exploration and bias](https://arxiv.org/abs/2304.11111) (April 21, 2023)
 - [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120) (April 24, 2023)
+- [Appropriateness of Recommendations Provided by ChatGPT to Interventional Radiologists](https://journals.sagepub.com/doi/abs/10.1177/08465371231170133) (April 13, 2023)
 - [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712) (March 22, 2023)
 - [On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)](https://arxiv.org/abs/2302.06706) (February 13, 2023)
 - [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633) (April 23, 2023)
