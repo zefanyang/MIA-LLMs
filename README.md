@@ -38,6 +38,7 @@
 ## Parameter-Efficient Fine-Tuning (PEFT)
 - [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647) (March 28, 2023)
 - [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/pdf/2304.14454.pdf) (April 27, 2023)
+- [CODA-Prompt: COntinual Decomposed Attention-based Prompting for Rehearsal-Free Continual Learning](https://arxiv.org/abs/2211.13218) (November 22, 2022)
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) (April 18, 2021)
 - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) (January 1, 2021)
 
