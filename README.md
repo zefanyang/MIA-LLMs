@@ -35,6 +35,11 @@
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580) (March 30, 2023)
 - [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500) (May 11, 2023)
 
+## Parameter-Efficient Fine-Tuning (PEFT)
+- [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647) (March 28, 2023)
+- [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/pdf/2304.14454.pdf) (April 27, 2023)
+- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) (2021)
+
 ## Prompt Engineering
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (2020)
 - [Exploiting Cloze Questions for Few Shot Text Classification and Natural Language Inference](https://arxiv.org/abs/2001.07676) (PET) (2021)
@@ -47,11 +52,6 @@
 - [How Does In-Context Learning Help Prompt Tuning?](https://arxiv.org/pdf/2302.10198.pdf) (March 2, 2023)
 - [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/abs/2304.11657) (April 23, 2023)
 - [Prompt Engineering for Healthcare: Methodologies and Applications](https://arxiv.org/pdf/2304.14670.pdf) (April 28, 2023)
-
-## Parameter-Efficient Fine-Tuning (PEFT)
-- [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647) (March 28, 2023)
-- [PMC-LLaMA: Further Finetuning LLaMA on Medical Papers](https://arxiv.org/pdf/2304.14454.pdf) (April 27, 2023)
-- [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) (2021)
 
 ## Large Vision Models
 - [SegGPT](https://arxiv.org/abs/2304.03284) (April 6, 2023)
