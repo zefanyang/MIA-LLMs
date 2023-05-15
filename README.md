@@ -33,6 +33,7 @@
 - [PaLM-E: An Embodied Multimodal Language Model](https://arxiv.org/abs/2303.03378) (March 2023)
 - [Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models](https://arxiv.org/abs/2303.04671) (March 8, 2023)
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580) (March 30, 2023)
+- [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500) (May 11, 2023)
 
 ## Prompt Engineering
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (2020)
@@ -72,7 +73,8 @@
 - [Multilingual translation for zero-shot biomedical classification using BioTranslator](https://www.nature.com/articles/s41467-023-36476-2) (February 10, 2023)
 - [Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining](https://arxiv.org/pdf/2304.14204.pdf) (April 28, 2023)
 
-## Evaluating, Aligning ChatGPT
+## Evaluating and Aligning ChatGPT
+- [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004) [April 28, 2023]
 - [Inducing anxiety in large language models increases exploration and bias](https://arxiv.org/abs/2304.11111) (April 21, 2023)
 - [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120) (April 24, 2023)
 - [Appropriateness of Recommendations Provided by ChatGPT to Interventional Radiologists](https://journals.sagepub.com/doi/abs/10.1177/08465371231170133) (April 13, 2023)
