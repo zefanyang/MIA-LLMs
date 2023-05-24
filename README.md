@@ -80,7 +80,8 @@
 - [Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining](https://arxiv.org/pdf/2304.14204.pdf) (April 28, 2023)
 
 ## Evaluating and Aligning ChatGPT
-- [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004) [April 28, 2023]
+- [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (May 18, 2023)
+- [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004) (April 28, 2023)
 - [Inducing anxiety in large language models increases exploration and bias](https://arxiv.org/abs/2304.11111) (April 21, 2023)
 - [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120) (April 24, 2023)
 - [Appropriateness of Recommendations Provided by ChatGPT to Interventional Radiologists](https://journals.sagepub.com/doi/abs/10.1177/08465371231170133) (April 13, 2023)
