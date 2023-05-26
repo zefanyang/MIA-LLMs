@@ -91,7 +91,6 @@
 - [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633) (April 23, 2023)
 - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221) (2022)
 - [Teaching Models to Express Their Uncertainty in Words](https://arxiv.org/abs/2205.14334) (2022)
-- [Black Holes as Brains: Neural Networks with Area Law Entropy](https://arxiv.org/abs/1801.03918) (2018)
 
 ## Image-Text Datasets
 - [Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041) (2019)
