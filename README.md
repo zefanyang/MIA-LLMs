@@ -85,6 +85,7 @@
 - [Foundation models for generalist medical artificial intelligence](https://www.nature.com/articles/s41586-023-05881-4) (April 12, 2023)
 - [Multilingual translation for zero-shot biomedical classification using BioTranslator](https://www.nature.com/articles/s41467-023-36476-2) (February 10, 2023)
 - [Towards Medical Artificial General Intelligence via Knowledge-Enhanced Multimodal Pretraining](https://arxiv.org/pdf/2304.14204.pdf) (April 28, 2023)
+- [Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2) (July 12, 2023)
 
 ## Evaluating and Aligning ChatGPT
 - [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (May 18, 2023)
