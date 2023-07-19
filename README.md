@@ -19,6 +19,12 @@
 - [LLaMA: Open and Efficient Foundation Language Models](https://arxiv.org/abs/2302.13971v1) (February 27, 2023)
 - [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) (March 14, 2023)
 - [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062) (April 19, 2023)
+- [PaLM 2](https://ai.google/discover/palm2/)
+- [LLaMA 2](https://ai.meta.com/llama/)
+- [BLOOMZ](https://huggingface.co/bigscience/bloomz)
+- [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM)
+- [Ziya](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-7B-Reward)
+- [MOSS](https://github.com/OpenLMLab/MOSS)
 
 ## Vision-Language Models (VLMs)
 - [VQA: Visual Question Answering](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf) (2015)
