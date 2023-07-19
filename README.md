@@ -42,6 +42,7 @@
 - [HuggingGPT: Solving AI Tasks with ChatGPT and its Friends in HuggingFace](https://arxiv.org/abs/2303.17580) (March 30, 2023)
 - [InstructBLIP: Towards General-purpose Vision-Language Models with Instruction Tuning](https://arxiv.org/abs/2305.06500) (May 11, 2023)
 - [Medical Visual Question Answering via Conditional Reasoning and Contrastive Learning](https://ieeexplore.ieee.org/document/9999450) (May 2023)
+- [Visual Programming: Compositional visual reasoning without training](https://openaccess.thecvf.com/content/CVPR2023/papers/Gupta_Visual_Programming_Compositional_Visual_Reasoning_Without_Training_CVPR_2023_paper.pdf)
 
 ## Parameter-Efficient Fine-Tuning (PEFT)
 - [Scaling Down to Scale Up: A Guide to Parameter-Efficient Fine-Tuning](https://arxiv.org/abs/2303.15647) (March 28, 2023)
