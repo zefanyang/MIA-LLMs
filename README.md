@@ -51,6 +51,7 @@
 - [The Power of Scale for Parameter-Efficient Prompt Tuning](https://arxiv.org/abs/2104.08691) (April 18, 2021)
 - [Prefix-Tuning: Optimizing Continuous Prompts for Generation](https://arxiv.org/abs/2101.00190) (January 1, 2021)
 - [How to Fine-Tune BERT for Text Classification?](https://link.springer.com/chapter/10.1007/978-3-030-32381-3_16) (October 13, 2019)
+- [Lora: Low-rank adaptation of large language models](https://arxiv.org/pdf/2106.09685.pdf) (2021)
 
 ## Prompt Engineering
 - [AutoPrompt: Eliciting Knowledge from Language Models with Automatically Generated Prompts](https://arxiv.org/abs/2010.15980) (2020)
