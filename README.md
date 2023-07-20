@@ -94,16 +94,17 @@
 - [Large language models encode clinical knowledge](https://www.nature.com/articles/s41586-023-06291-2) (July 12, 2023)
 
 ## Evaluating and Aligning ChatGPT
-- [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (May 18, 2023)
-- [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004) (April 28, 2023)
-- [Inducing anxiety in large language models increases exploration and bias](https://arxiv.org/abs/2304.11111) (April 21, 2023)
-- [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120) (April 24, 2023)
-- [Appropriateness of Recommendations Provided by ChatGPT to Interventional Radiologists](https://journals.sagepub.com/doi/abs/10.1177/08465371231170133) (April 13, 2023)
-- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712) (March 22, 2023)
-- [On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)](https://arxiv.org/abs/2302.06706) (February 13, 2023)
-- [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633) (April 23, 2023)
 - [Language Models (Mostly) Know What They Know](https://arxiv.org/abs/2207.05221) (2022)
 - [Teaching Models to Express Their Uncertainty in Words](https://arxiv.org/abs/2205.14334) (2022)
+- [On the Planning Abilities of Large Language Models (A Critical Investigation with a Proposed Benchmark)](https://arxiv.org/abs/2302.06706) (February 13, 2023)
+- [Evaluating ChatGPT's Information Extraction Capabilities: An Assessment of Performance, Explainability, Calibration, and Faithfulness](https://arxiv.org/abs/2304.11633) (April 23, 2023)
+- [Sparks of Artificial General Intelligence: Early experiments with GPT-4](https://arxiv.org/abs/2303.12712) (March 22, 2023)
+- [Appropriateness of Recommendations Provided by ChatGPT to Interventional Radiologists](https://journals.sagepub.com/doi/abs/10.1177/08465371231170133) (April 13, 2023)
+- [Using the Veil of Ignorance to align AI systems with principles of justice](https://www.pnas.org/doi/10.1073/pnas.2213709120) (April 24, 2023)
+- [Inducing anxiety in large language models increases exploration and bias](https://arxiv.org/abs/2304.11111) (April 21, 2023)
+- [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004) (April 28, 2023)
+- [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (May 18, 2023)
+- [How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) (July 18, 2023)
 
 ## Image-Text Datasets
 - [Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041) (2019)
