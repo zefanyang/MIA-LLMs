@@ -70,6 +70,7 @@
 - [How Does In-Context Learning Help Prompt Tuning?](https://arxiv.org/pdf/2302.10198.pdf) (March 2, 2023)
 - [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/abs/2304.11657) (April 23, 2023)
 - [Prompt Engineering for Healthcare: Methodologies and Applications](https://arxiv.org/pdf/2304.14670.pdf) (April 28, 2023)
+- [P-tuning v2: Prompt tuning can be comparable to fine-tuning universally across scales and tasks](https://arxiv.org/pdf/2110.07602.pdf) (March 20, 2022)
 
 ## Large Vision Models
 - [SegGPT](https://arxiv.org/abs/2304.03284) (April 6, 2023)
