@@ -20,7 +20,7 @@
 - [Alpaca](https://github.com/tatsu-lab/stanford_alpaca) (March 14, 2023)
 - [Scaling Transformer to 1M tokens and beyond with RMT](https://arxiv.org/abs/2304.11062) (April 19, 2023)
 - [PaLM 2](https://ai.google/discover/palm2/)
-- [LLaMA 2](https://ai.meta.com/llama/)
+- [LLaMA 2](https://ai.meta.com/research/publications/llama-2-open-foundation-and-fine-tuned-chat-models/)
 - [BLOOMZ](https://huggingface.co/bigscience/bloomz)
 - [Luotuo](https://github.com/LC1332/Luotuo-Chinese-LLM)
 - [Ziya](https://huggingface.co/IDEA-CCNL/Ziya-LLaMA-7B-Reward)
