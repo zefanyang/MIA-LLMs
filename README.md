@@ -67,11 +67,11 @@
 - [WARP: Word-level Adversarial ReProgramming](https://arxiv.org/pdf/2101.00121.pdf) (2021)
 - [Learning to Prompt for Vision-Language Models](https://link.springer.com/article/10.1007/s11263-022-01653-1) (CoOp) (2022)
 - [Chain-of-Thought Prompting Elicits Reasoning in Large Language Models](https://arxiv.org/abs/2201.11903) (CoT) (January 2022)
+- [React: Synergizing reasoning and acting in language models](https://arxiv.org/pdf/2210.03629.pdf) (2022)
 - [How Does In-Context Learning Help Prompt Tuning?](https://arxiv.org/pdf/2302.10198.pdf) (March 2, 2023)
 - [Enhancing Chain-of-Thoughts Prompting with Iterative Bootstrapping in Large Language Models](https://arxiv.org/abs/2304.11657) (April 23, 2023)
 - [Prompt Engineering for Healthcare: Methodologies and Applications](https://arxiv.org/pdf/2304.14670.pdf) (April 28, 2023)
 - [P-tuning v2: Prompt tuning can be comparable to fine-tuning universally across scales and tasks](https://arxiv.org/pdf/2110.07602.pdf) (March 20, 2022)
-
 ## Large Vision Models
 - [SegGPT](https://arxiv.org/abs/2304.03284) (April 6, 2023)
 - [Scaling Vision Transformers to 22 Billion Parameters](https://arxiv.org/abs/2302.05442) (February 10, 2023)
