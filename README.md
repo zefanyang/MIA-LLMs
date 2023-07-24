@@ -106,6 +106,7 @@
 - [Are Emergent Abilities of Large Language Models a Mirage?](https://arxiv.org/abs/2304.15004) (April 28, 2023)
 - [LIMA: Less Is More for Alignment](https://arxiv.org/abs/2305.11206) (May 18, 2023)
 - [How Is ChatGPT’s Behavior Changing over Time?](https://arxiv.org/pdf/2307.09009.pdf) (July 18, 2023)
+- [Challenges and Applications of Large Language Models](https://arxiv.org/abs/2307.10169) (July 19, 2023)
 
 ## Image-Text Datasets
 - [Augmenting the national institutes of health chest radiograph dataset with expert annotations of possible pneumonia](https://pubs.rsna.org/doi/full/10.1148/ryai.2019180041) (2019)
