@@ -28,6 +28,7 @@
 - [Claude](https://www.anthropic.com/)
 - [DoctorGLM](https://github.com/xionghonglin/DoctorGLM)
 - [ChatGLM](https://github.com/THUDM/ChatGLM-6B)
+- [ChatGLM 2](https://github.com/THUDM/ChatGLM2-6B)
 
 ## Vision-Language Models (VLMs)
 - [VQA: Visual Question Answering](https://openaccess.thecvf.com/content_iccv_2015/papers/Antol_VQA_Visual_Question_ICCV_2015_paper.pdf) (2015)
